@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694301403 source:i:\codeblocks\character_checking\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
